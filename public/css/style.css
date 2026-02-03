@@ -6,7 +6,6 @@
    CSS Custom Properties (Design Tokens)
    ============================================ */
 :root {
-    /* カラートークン - デジタル庁デザインシステム準拠 */
     --color-primary: #0017C1;
     --color-primary-hover: #0022E6;
     --color-primary-active: #000FA3;
