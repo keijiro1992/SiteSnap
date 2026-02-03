@@ -1,0 +1,19 @@
+{
+  "name": "sitesnap",
+  "version": "1.0.0",
+  "description": "URLを指定してデスクトップ・モバイル両方のスクリーンショットを撮影するCLIツール",
+  "main": "sitesnap.js",
+  "bin": {
+    "sitesnap": "./sitesnap.js"
+  },
+  "scripts": {
+    "start": "node sitesnap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["screenshot", "puppeteer", "cli"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.36.1"
+  }
+}
